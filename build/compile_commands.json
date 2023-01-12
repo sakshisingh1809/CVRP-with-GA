@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/Users/sakshisingh/Desktop/vrp/cvrp/build",
+  "command": "/usr/bin/clang++  -I/Users/sakshisingh/Desktop/vrp/cvrp/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -O3 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wno-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -std=gnu++17 -o CMakeFiles/cvrp.dir/main/main.cpp.o -c /Users/sakshisingh/Desktop/vrp/cvrp/main/main.cpp",
+  "file": "/Users/sakshisingh/Desktop/vrp/cvrp/main/main.cpp"
+},
+{
+  "directory": "/Users/sakshisingh/Desktop/vrp/cvrp/build",
+  "command": "/usr/bin/clang++  -I/Users/sakshisingh/Desktop/vrp/cvrp/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -O3 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wno-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -std=gnu++17 -o CMakeFiles/cvrp.dir/src/genetic_algorithm.cpp.o -c /Users/sakshisingh/Desktop/vrp/cvrp/src/genetic_algorithm.cpp",
+  "file": "/Users/sakshisingh/Desktop/vrp/cvrp/src/genetic_algorithm.cpp"
+},
+{
+  "directory": "/Users/sakshisingh/Desktop/vrp/cvrp/build",
+  "command": "/usr/bin/clang++  -I/Users/sakshisingh/Desktop/vrp/cvrp/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -O3 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wno-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -std=gnu++17 -o CMakeFiles/cvrp.dir/src/greedy.cpp.o -c /Users/sakshisingh/Desktop/vrp/cvrp/src/greedy.cpp",
+  "file": "/Users/sakshisingh/Desktop/vrp/cvrp/src/greedy.cpp"
+},
+{
+  "directory": "/Users/sakshisingh/Desktop/vrp/cvrp/build",
+  "command": "/usr/bin/clang++  -I/Users/sakshisingh/Desktop/vrp/cvrp/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -O3 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wno-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -std=gnu++17 -o CMakeFiles/cvrp.dir/src/local_search_inter_intra.cpp.o -c /Users/sakshisingh/Desktop/vrp/cvrp/src/local_search_inter_intra.cpp",
+  "file": "/Users/sakshisingh/Desktop/vrp/cvrp/src/local_search_inter_intra.cpp"
+},
+{
+  "directory": "/Users/sakshisingh/Desktop/vrp/cvrp/build",
+  "command": "/usr/bin/clang++  -I/Users/sakshisingh/Desktop/vrp/cvrp/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -O3 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wno-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -std=gnu++17 -o CMakeFiles/cvrp.dir/src/local_search_intra.cpp.o -c /Users/sakshisingh/Desktop/vrp/cvrp/src/local_search_intra.cpp",
+  "file": "/Users/sakshisingh/Desktop/vrp/cvrp/src/local_search_intra.cpp"
+},
+{
+  "directory": "/Users/sakshisingh/Desktop/vrp/cvrp/build",
+  "command": "/usr/bin/clang++  -I/Users/sakshisingh/Desktop/vrp/cvrp/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -O3 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wno-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -std=gnu++17 -o CMakeFiles/cvrp.dir/src/simulated_annealing.cpp.o -c /Users/sakshisingh/Desktop/vrp/cvrp/src/simulated_annealing.cpp",
+  "file": "/Users/sakshisingh/Desktop/vrp/cvrp/src/simulated_annealing.cpp"
+},
+{
+  "directory": "/Users/sakshisingh/Desktop/vrp/cvrp/build",
+  "command": "/usr/bin/clang++  -I/Users/sakshisingh/Desktop/vrp/cvrp/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -O3 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wno-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -std=gnu++17 -o CMakeFiles/cvrp.dir/src/tabu_search.cpp.o -c /Users/sakshisingh/Desktop/vrp/cvrp/src/tabu_search.cpp",
+  "file": "/Users/sakshisingh/Desktop/vrp/cvrp/src/tabu_search.cpp"
+},
+{
+  "directory": "/Users/sakshisingh/Desktop/vrp/cvrp/build",
+  "command": "/usr/bin/clang++  -I/Users/sakshisingh/Desktop/vrp/cvrp/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -O3 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wno-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -std=gnu++17 -o CMakeFiles/cvrp.dir/src/utils.cpp.o -c /Users/sakshisingh/Desktop/vrp/cvrp/src/utils.cpp",
+  "file": "/Users/sakshisingh/Desktop/vrp/cvrp/src/utils.cpp"
+}
+]

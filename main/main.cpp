@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author vss2sn
+ * @author Sakshi Singh
  * @brief The main function that sets up the problem and runs the solution
  * algorithms
  */
